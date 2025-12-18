@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="120px" height="120px" src="https://github.com/mojuru-app/mojuru-source/blob/main/assets/images/transparent-icon.png?raw=true"/>
+    <img width="120px" height="120px" src="https://github.com/mojuru-app/mojuru/blob/main/assets/images/transparent-icon.png?raw=true"/>
     <h1 align="center">Mojuru</h1>
 </p>
 
